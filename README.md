@@ -8,7 +8,7 @@
 * [DevOps](#DevOps)
 * [Design](#Design)
 
----
+***
 
 # Mobile
 
@@ -18,13 +18,13 @@
 
 [Back To Top](#Larvata)
 
----
+***
 
 # Frontend
 
 [Back To Top](#Larvata)
 
----
+***
 
 # Backend
 
@@ -83,7 +83,7 @@
 
 [Back To Top](#Larvata)
 
----
+***
 
 # DevOps
 
@@ -134,7 +134,7 @@
 
 [Back To Top](#Larvata)
 
----
+***
 
 # Design
 
